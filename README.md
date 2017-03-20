@@ -32,9 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![alt tag](https://media.giphy.com/media/xUA7bhwjHlhGpY2THG/giphy.gif)
-<img src='https://media.giphy.com/media/xUPGcGRUIba42hPSVy/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![alt tag](https://media.giphy.com/media/3og0ICuPiwHS7tDRuM/giphy.gif)
 ## Notes
 
 Describe any challenges encountered while building the app.
