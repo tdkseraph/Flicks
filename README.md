@@ -32,6 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![alt tag](https://media.giphy.com/media/xUA7bhwjHlhGpY2THG/giphy.gif)
 <img src='https://media.giphy.com/media/xUPGcGRUIba42hPSVy/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
